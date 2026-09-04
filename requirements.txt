@@ -1,0 +1,8 @@
+# Core scientific Python dependencies
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# Jupyter notebook support
+jupyter
