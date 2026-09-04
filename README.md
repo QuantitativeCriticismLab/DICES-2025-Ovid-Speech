@@ -23,16 +23,19 @@ If you use the data or code in this repository, please cite:
 ```
 ## Installation
 
-The repository both Python notebooks and Matlab scripts. The Python dependencies required to run the notebooks are listed in `requirements.txt`.
+## Software Requirements
+
+The repository contains both Python notebooks and MATLAB scripts. The Python dependencies required to run the notebooks are listed in `requirements.txt`.
 
 To install them, run:
 
 ```bash
 pip install -r requirements.txt
 ```
+
 We recommend using a virtual environment to keep the project dependencies isolated from other Python installations.
 
-The notebooks were run using Python 3.13.0. The Matlab scripts were run using R2023b. 
+The notebooks were run using **Python 3.13.0**, and the MATLAB scripts were run using **MATLAB R2023b**.
 
 ## Repository Structure
 
