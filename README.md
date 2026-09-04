@@ -3,9 +3,9 @@ Data and code for reproducing Bolt et al., "Computational Stylometry and Speech 
 
 ## Citation
 
-If you use the code or data in this repository, please cite:
+If you use the data or code in this repository, please cite:
 
-> T. J. Bolt, P. Chaudhuri, and J. P. Dexter, “Computational Stylometry and Speech Style in Ovid’s *Metamorphoses*,” in C. Forstall and B. Verhelst (eds.), *Direct Speech in Greek and Latin Epic: Expanding the Methods and Canon*. Brill (2025), pp. 248–268. https://doi.org/10.1163/9789004750227_012
+> T. J. Bolt, P. Chaudhuri, and J. P. Dexter. “Computational Stylometry and Speech Style in Ovid’s *Metamorphoses*.” In *Direct Speech in Greek and Latin Epic: Expanding the Methods and Canon*, edited by C. Forstall and B. Verhelst, 248–268. Brill, 2025. https://doi.org/10.1163/9789004750227_012.
 
 ### BibTeX
 
@@ -34,11 +34,11 @@ The extracted speeches are available in `output_speeches_50_lines`, and the corr
 
 For details on generating the stylometric data, consult:
 
-T. J. Bolt, E. D. Adams, Z. Adramerinas, P. J. Burns, T. Dasgupta, A. Deng, E. T. Gianitsos, E. F. Rincon, P. Chaudhuri, and J. P. Dexter, “Stylometric Criticism of Latin Literature: From Exploratory Data Analysis to Close Reading,” *TAPA* 155 (2025), pp. 205–250. https://doi.org/10.1353/apa.2025.a957882
+T. J. Bolt, E. D. Adams, Z. Adramerinas, P. J. Burns, T. Dasgupta, A. Deng, E. T. Gianitsos, E. F. Rincon, P. Chaudhuri, and J. P. Dexter. “Stylometric Criticism of Latin Literature: From Exploratory Data Analysis to Close Reading.” *TAPA* 155 (2025): 205–250. https://doi.org/10.1353/apa.2025.a957882.
 
 Code for generating the stylometric data is available at:
 
-https://github.com/QuantitativeCriticismLab/TAPA-2025-Stylometric-Criticism
+https://github.com/QuantitativeCriticismLab/TAPA-2025-Stylometric-Criticism.
 
 ### 2. `fig_11_1`
 
