@@ -1,5 +1,5 @@
 # DICES-2025-Ovid-Speech
-Data and code for reproducing Bolt et al., "Computational Stylometry and Speech Style in Ovid's Metamorphoses," _Direct Speech in Greek and Latin Epic: Expanding the Methods and Canon_
+Data and code for reproducing Bolt et al., "Computational Stylometry and Speech Style in Ovid's Metamorphoses," in _Direct Speech in Greek and Latin Epic: Expanding the Methods and Canon_
 
 ## Citation
 
