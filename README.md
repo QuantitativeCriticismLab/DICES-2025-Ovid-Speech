@@ -42,18 +42,18 @@ https://github.com/QuantitativeCriticismLab/TAPA-2025-Stylometric-Criticism
 
 ### 2. `fig_11_1`
 
-The `fig_11_1` directory contains the data and code for reproducing Figure 11.1, which presents sentence length and relative-clause fraction across narrative epic.
+The `fig_11_1` directory contains the data and code for reproducing Figure 11.1, which considers sentence length and relative clause fraction across narrative epic.
 
 * `epic_violin.m` produces the violin plot.
 * `scatter_met.m` produces the scatterplot.
 
 ### 3. `table_11_2`
 
-The `table_11_2` directory contains the data for reproducing Table 11.2, which reports stylometric differences between the speeches of Ajax and Ulysses.
+The `table_11_2` directory contains the data for reproducing Table 11.2, which reports stylometric differences between the speeches of Ajax and Ulysses in _Met_. 13. ___
 
 ### 4. `fig_11_2`
 
 The `fig_11_2` directory contains the data and code for reproducing Figure 11.2 and the classification analysis described on p. 261 of the chapter.
 
-* `plots.m` produces the violin plot of interrogative-sentence frequency across the speeches.
-* `Ovid_speech_classification.ipynb` contains the code for training and evaluating the random forest classifier.
+* `plots.m` produces the violin plot of interrogative sentence frequency across the speeches.
+* `Ovid_speech_classification.ipynb` contains the code for training and evaluating the random forest classifier for speaker gender.
