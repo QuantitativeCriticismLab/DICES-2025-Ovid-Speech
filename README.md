@@ -21,6 +21,16 @@ If you use the data or code in this repository, please cite:
   doi       = {10.1163/9789004750227_012}
 }
 ```
+## Installation
+
+The Python dependencies required to run the notebooks are listed in `requirements.txt`.
+
+To install them, run:
+
+```bash
+pip install -r requirements.txt
+```
+We recommend using a virtual environment to keep the project dependencies isolated from other Python installations.
 
 ## Repository Structure
 
