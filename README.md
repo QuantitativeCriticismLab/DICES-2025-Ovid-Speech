@@ -44,7 +44,7 @@ https://github.com/QuantitativeCriticismLab/TAPA-2025-Stylometric-Criticism.
 
 The `fig_11_1` directory contains the data and code for reproducing Figure 11.1, which considers sentence length and relative clause fraction across narrative epic.
 
-* `epic_violin.m` produces the violin plot.
+* `violin_epic.m` produces the violin plot.
 * `scatter_met.m` produces the scatterplot.
 
 ### 3. `table_11_2`
@@ -55,5 +55,5 @@ The `table_11_2` directory contains the data for reproducing Table 11.2, which r
 
 The `fig_11_2` directory contains the data and code for reproducing Figure 11.2 and the classification analysis described on p. 261 of the chapter.
 
-* `plots.m` produces the violin plot of interrogative sentence frequency across the speeches.
-* `Ovid_speech_classification.ipynb` contains the code for training and evaluating the random forest classifier for speaker gender.
+* `violin_gender.m` produces the violin plot of interrogative sentence frequency across the speeches.
+* `DICES_speech_classification.ipynb` contains the code for training and evaluating the random forest classifier for speaker gender.
