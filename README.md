@@ -49,7 +49,7 @@ The `fig_11_1` directory contains the data and code for reproducing Figure 11.1,
 
 ### 3. `table_11_2`
 
-The `table_11_2` directory contains the data for reproducing Table 11.2, which reports stylometric differences between the speeches of Ajax and Ulysses in _Met_. 13. ___
+The `table_11_2` directory contains the data for reproducing Table 11.2, which reports stylometric differences between the speeches of _Ajax_ and _Ulysses_ in _Met_. 13.
 
 ### 4. `fig_11_2`
 
